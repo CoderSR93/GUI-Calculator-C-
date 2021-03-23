@@ -1,25 +1,25 @@
 # GUI-Calculator-(C++)-
 
-##Description
+#Description
 *This is a simple GUI Calculator which.
 *Made by Visual Studio 2019(Using C++ .net framework).
 *You can clone it and learn GUI or make it better
 
-##Setup
+#Setup
 To run this project:
 ```
 $Calculator\Debug\Calculator.exe
 
 ```
 
-##Usage
+#Usage
 *Arithmetic Simple Calculation. [Complex calculations yet to include]
 
-##Credits
+#Credits
 ```
 Main Creator:- CoderS.R
 
 ```
-##License
+#License
 Free to use and Develop.
 No Copy Right license is inducted
