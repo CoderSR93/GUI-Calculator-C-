@@ -8,7 +8,7 @@
 # Setup
 To run this project:
 ```
-$Calculator\Debug\Calculator.exe
+$ Calculator\Debug\Calculator.exe
 
 ```
 
