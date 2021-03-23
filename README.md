@@ -5,17 +5,14 @@
 <p>*Made by Visual Studio 2019(Using C++ .net framework).</p>
 <p>*You can clone it and learn GUI or make it better</p>
 
-<h1>Setup</h1>
-<p>To run this project: </p>
+# Setup
+To run this project:
 ```
 $Calculator\Debug\Calculator.exe
 
 ```
 
-<h2>Usage</h2>
-<p>*Arithmetic Simple Calculation. [Complex calculations yet to include]</p>
-
-<h3>Credits</h3>
+<strong>Credits</strong>
 ```
 Main Creator:- CoderS.R
 
